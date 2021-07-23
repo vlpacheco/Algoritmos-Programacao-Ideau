@@ -1,4 +1,4 @@
-# Algorítmos-Programacao-de-Computadores
+# Algorítmos & Programacao de Computadores
 > Repositório Dedicado ao material suplementar da disciplina.
 
 ## Repositório
