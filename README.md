@@ -1,8 +1,8 @@
-# Algorítmos & Programacao de Computadores
+# Algoritmos & Programacao de Computadores
 > Repositório Dedicado ao material suplementar da disciplina.
 
-## Repositório
-> Todos os notebooks produzidos e estudados nas aulas estáo o uestaráo listados nesse espeço.
+## Repositorio
+> Todos os notebooks produzidos e estudados nas aulas estao ou estarao listados nesse espeço.
 > Todas atividades, mini-projetos estaráo também aqui descritos.
 
 ### Suporte
